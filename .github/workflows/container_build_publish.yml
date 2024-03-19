@@ -44,8 +44,8 @@ jobs:
           context: ./
           # Note: tags has to be all lower-case
           tags: |
-            peerherholz/bids_atlas:latest 
-            ghcr.io/peerherholz/bids_atlas:latest
+            M-earnest/docker_automatization_trial:latest 
+            ghcr.io/M-earnest/docker_automatization_trial:latest
           # build on feature branches, push only on main branch
           push: ${{ github.ref == 'refs/heads/main' }}
 
