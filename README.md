@@ -1,4 +1,3 @@
-# EEG Demographics Dataset
 
 ## Author
 - Name: M. Ernst
