@@ -44,7 +44,7 @@ jobs:
           context: ./
           # Note: tags has to be all lower-case
           tags: |
-            M-earnest/docker_automatization_trial:latest 
+            mearnest/docker_automatization_trial:latest 
           # build on feature branches, push only on main branch
           push: ${{ github.ref == 'refs/heads/main' }}
 
