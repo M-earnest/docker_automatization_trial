@@ -1,6 +1,6 @@
 
 ## Author
-- Name: M. Ernst
+- Name: Author
 - Date: 2024-03-09
 - Location: Frankfurt am Main, Germany
 
@@ -18,5 +18,5 @@ The `demographics.csv` file contains demographic information of the EEG study pa
 
 ## Citing This Work
 If you use this dataset in your research, please cite it as follows:
-Ernst, M. (2024). Study Title. Frankfurt am Main, Germany. ORCID-ID
+Lastname, F. (2024). Study Title. Frankfurt am Main, Germany. ORCID-ID
 
